@@ -1,2 +1,11 @@
-This is an optional directory. Any files that are produced by your program
-should go here.
+HBW_tripmatriX
+HBO_tripmatriX
+NHB_tripmatriX
+HBW_tripAutoMatriX
+HBW_tripBusMatriX
+HBO_tripAutoMatriX
+HBO_tripBusMatriX
+NHB_tripAutoMatriX
+NHB_tripBusMatriX
+FinalTrip
+FinalPeakTrip
